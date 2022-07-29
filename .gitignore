@@ -1,0 +1,6 @@
+build/*.o
+userInfo/*
+game
+Smash.sublime-project
+Smash.sublime-workspace
+.vscode
